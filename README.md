@@ -1,5 +1,5 @@
 ### Hi there 👋
-- I am a Full-Stack Developer living in Büren 🇩🇪
+- I am a Software Engineer from Büren 🇩🇪
 - My main languages are: PHP, C, JavaScript (TypeScript)
 - Additonal languages I worked with: C++, Pascal, Java (Android Development), Python
 - Frameworks I love: React, Nextjs, Vue, Pinia, Nuxt
