@@ -1,4 +1,5 @@
 ### Hi there 👋
+- I'm Björn, 25 years old!
 - I am a Software Engineer from Büren 🇩🇪
 - My main languages are: PHP, C, JavaScript (TypeScript)
 - Additonal languages I worked with: C++, Pascal, Java (Android Development), Python
