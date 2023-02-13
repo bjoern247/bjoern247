@@ -1,5 +1,5 @@
 ### Hi there 👋
-- I'm Björn, 25 years old!
+- I'm Björn, 26 years old!
 - I am a Software Engineer from Büren 🇩🇪
 - I run a Software- & Web-Development Company called [weBworKs](https://webworks.software)
 - We love to think web first and build web apps that feel like native apps. We firmly believe the web is the future.
