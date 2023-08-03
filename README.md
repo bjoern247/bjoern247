@@ -1,8 +1,7 @@
 ### Hi there 👋
 - I'm Björn, 26 years old!
-- I am a Software Engineer from Büren 🇩🇪
-- I run a Software- & Web-Development company called [weBworKs](https://webworks.software)
-- We love to think web first and build web apps that feel like native apps. We firmly believe the web is the future.
+- I am a Freelance Frontend Developer from Büren 🇩🇪
+- 
 
 <!--
 **bjoern247/bjoern247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
