@@ -1,6 +1,6 @@
 ### Hi there 👋
 - I'm Björn, 26 years old!
-- I am a Freelance Frontend Developer from Büren 🇩🇪
+- I am a Frontend Developer from Büren 🇩🇪
 
 <!--
 **bjoern247/bjoern247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
